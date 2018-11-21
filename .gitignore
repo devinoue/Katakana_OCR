@@ -1,0 +1,6 @@
+*.ipynb
+.ipynb_checkpoints
+/ETL1
+/png-etl1
+テスト.*
+*.txt
