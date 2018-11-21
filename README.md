@@ -7,8 +7,13 @@
 # 学習の推移
 
 ![](https://raw.githubusercontent.com/devinoue/Katakana_OCR/master/katakana_acuuracy.png)
+
 ▲精度(accuracy)
 
 
-▲誤差(Loss)
+
+
+
 ![](https://raw.githubusercontent.com/devinoue/Katakana_OCR/master/katakana_loss.png)
+
+▲誤差(Loss)
