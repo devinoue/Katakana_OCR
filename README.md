@@ -1,7 +1,7 @@
 # Katakana_OCR
 畳み込みニューラルネットワークを利用したカタカナのOCRです。
 
-利用させてもらったのは[ETL文字データベース](http://etlcdb.db.aist.go.jp/?lang=ja)の画像を利用しました。
+今回は[ETL文字データベース](http://etlcdb.db.aist.go.jp/?lang=ja)の画像を利用させてもらいました。
 
 精度はおよそ96%。
 
