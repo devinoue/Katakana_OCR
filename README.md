@@ -9,7 +9,7 @@
 
 ![](https://raw.githubusercontent.com/devinoue/Katakana_OCR/master/katakana_acuuracy.png)
 
-▲精度(accuracy)
+▲正解率(accuracy)
 
 
 
